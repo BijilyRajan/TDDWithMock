@@ -30,7 +30,7 @@
             {
                 Email = request.Email,
                 FirstName = request.FirstName,
-                LastName = request.LastName
+                LastName = request.LastName 
             };
         }
     }
